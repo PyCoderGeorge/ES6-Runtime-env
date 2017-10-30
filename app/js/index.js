@@ -1,5 +1,5 @@
 
-import './class/lesson_4';
+import './class/lesson_10';
 
 class Test {
     constructor () {
